@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "template_filler"
-version = "2025.9.26814"
+version = "2025.9.26945"
 description = ""
 readme = "README.md"
 requires-python = ">=3.9"
@@ -13,13 +13,6 @@ authors = [
 ]
 license = { file = "LICENSE" }
 dependencies = [
-    "template",
-    "substitution",
-    "variable",
-    "key",
-    "value",
-    "iteration",
-    "combination"
 ]
 
 [project.urls]
